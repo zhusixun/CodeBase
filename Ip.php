@@ -4,6 +4,7 @@
 	{	
 		/**
 		 * 获取客户端真实IP
+		 * Get the client's real IP
 		 * @return [type] [description]
 		 */
 		public function get_client_ip()
@@ -35,6 +36,7 @@
 
 		/**
 		 * 获取服务器真实IP
+		 * Get the real IP of the server
 		 * @return [type] [description]
 		 */
 		public function get_server_ip()
